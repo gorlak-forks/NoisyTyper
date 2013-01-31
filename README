@@ -1,0 +1,11 @@
+This should be unzipped into the apps folder of an OF 0071 release.
+http://www.openframeworks.cc/versions/v0.071/of_0071_osx_release.zip
+
+so once the above zip is downloaded and unzipped.
+the folder structure should look like: 
+
+OF-0071Folder/
+	apps/
+  		noisyTyper/
+     		noisyTyperProject/
+       
